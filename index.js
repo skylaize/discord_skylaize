@@ -7,7 +7,7 @@ activity : {
 details : "Tropical Heberg la qualité à bas prix !",
 assets : {
 large_image : "Image",
-large_text : "Playing" // THIS WILL SHOW AS "Playing <Status>" from the outisde
+large_text : "Playing" // Ce sera afficher comme ca "Joue à <Status>"
 },
 buttons : [{label : "Tropical Heberg" , url : "https:/discord.gg/kv874HzHMD"},{label : "Tropical Leaks",url : "https:/discord.gg/EVbYRNPRcW"}]
 }
