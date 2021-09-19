@@ -1,4 +1,9 @@
 # discord_skylaize
-Custom statut fait par moi
+Statut Discord avec des buttons
 
-Des nouve scripts bientôt !
+
+Si vous avez besoin d'aide ajoutez moi : SkyLaiZe#5298
+
+Ou alors rejoignez mon serveur discord de dévellopement : https://discord.gg/EVbYRNPRcW
+
+Des nouveaux scripts bientôt !
